@@ -1,5 +1,8 @@
 # Hey there :wave:
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Pravin. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
